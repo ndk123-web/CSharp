@@ -29,9 +29,9 @@
 3. In C# .dll file is like java's .Byte which is platform independant
 4. In C# JIT compiler is used to convert .dll to machine code
 5. Running C# code => compile -> creates .dll/.exe -> that .dll/.exe further read by os JIT compiler -> then JIT converts into machine code -> execute the code
-6. Abstract class / methods -> we must override using override keyword
-7. Interface -> we must override but dont need to use override keyword
-8. Virtual Methods  -> we may or may not override
+6. Abstract class / methods -> we must override using override keyword or it will throw the error  
+7. Interface -> we must override but , dont need to use override keyword and , not allowed virtual method , allowed methods and properties only 
+8. Virtual Methods  -> we may or may not override , we can use in abstract class as well as normal class 
 9. Delegate - .Lambda Function .Anonymous method
 10. ? -> If it can be null then use this 
 11. ?? -> It is similar to || of js 
