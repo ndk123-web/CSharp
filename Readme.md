@@ -36,3 +36,7 @@
 10. ? -> If it can be null then use this 
 11. ?? -> It is similar to || of js 
 12. ?. -> It is also similar to ?. of js 
+13. LINQ -> foreach , var , dynamic , Where , Select , OrderByDescending , ...
+14. Action<inp> -> return type void 
+15. Func<inp , out> -> return type out 
+16. Predicate<inp> -> return type bool
