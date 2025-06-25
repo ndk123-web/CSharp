@@ -44,3 +44,11 @@
 18. Async Await Task and Thread Diff
    - Async Await -> Do not block the main or any thread
    - Thread -> It Pause the main or any thread  
+19. Attributes -> Its like metdata/more info of class 
+   - [Serializable] -> to serialize the class like json , xml ( string to json )
+   - [NonSerialized] -> marks a member as not part of serialization process  
+   - [Obsolete] -> to give the warning 
+   - [Route] // ASP.NET Core
+   - [Required] // ASP.NET Core
+   - [HttpGet] // ASP.NET Core
+   - [HttpPost] // ASP.NET Core 
