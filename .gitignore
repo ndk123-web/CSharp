@@ -1,0 +1,48 @@
+# Ignore build results
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore build logs
+*.log
+
+# Ignore NuGet packages
+*.nupkg
+# The packages folder can be ignored if you use package restore
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# Ignore test results
+TestResults/
+*.TestResults/
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore compiled DLLs and executables
+*.dll
+*.exe
+*.pdb
+
+# Ignore publish output
+publish/
+out/
+
+# Ignore Rider IDE files
+.idea/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Windows thumbnail cache
+Thumbs.db
