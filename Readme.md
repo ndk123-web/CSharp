@@ -40,3 +40,7 @@
 14. Action<inp> -> return type void 
 15. Func<inp , out> -> return type out 
 16. Predicate<inp> -> return type bool
+17. Delegate Keyword , checks methods signature and its like function pointer of c 
+18. Async Await Task and Thread Diff
+   - Async Await -> Do not block the main or any thread
+   - Thread -> It Pause the main or any thread  
