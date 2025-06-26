@@ -46,3 +46,55 @@ out/
 
 # Ignore Windows thumbnail cache
 Thumbs.db
+
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Rider and VSCode settings
+.idea/
+.vscode/
+
+# ASP.NET Core secrets
+appsettings.Development.json
+appsettings.*.json
+
+# Log files
+*.log
+
+# Visual Studio
+.vs/
+*.dbmdl
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# DotCover
+*.dotCover
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Temporary files
+~$*
+*.tmp
+
+# Auto-generated
+Generated_Code/
+
+# Mac and Linux junk
+.DS_Store
+*.swp
