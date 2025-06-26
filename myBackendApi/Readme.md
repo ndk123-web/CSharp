@@ -2,6 +2,13 @@
 
 This document covers my journey and understanding of ASP.NET Core Web API so far, from starting a new project to understanding Minimal APIs, Controllers, attributes, and best practices.
 
+## Concept of IAction
+- IAction is Interface 
+- so return type is IAction
+- Ok is returning object of OkObjectClass
+- that okObjetctClass implements IAction interface
+- and OkObjectClass is in ControllerBase
+- And is valid because Ok() return type is OkObjectClass and that class implements IAction interface that's why it's valid
 
 ## ✅ 1. How to Create a New ASP.NET Core Web API Project
 
