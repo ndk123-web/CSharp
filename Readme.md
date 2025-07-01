@@ -53,7 +53,17 @@
    - [HttpGet] // ASP.NET Core
    - [HttpPost] // ASP.NET Core 
 
-- as  
+- as
+
+fn() -> Mi Fn Logic {
+  pr("Hello")
+}
+
 - Now i am doing changes in github not in local as as
+
+
+fn2() -> Mi Fn Logic {
+  pr("Hello")
+}
 - Yo Now I pull changes now commiting in local as
 - Yo 
