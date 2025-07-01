@@ -1,4 +1,6 @@
-﻿using System;
+﻿//!usr/bin/env dotnet
+
+using System;
 
 // Generic Box class that can hold any type of value
 public class Box<T> where T : class{
