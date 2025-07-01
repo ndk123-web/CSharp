@@ -53,4 +53,5 @@
    - [HttpGet] // ASP.NET Core
    - [HttpPost] // ASP.NET Core 
 
-- Doing Changes And commiting 
+- Doing Changes And commiting
+- Now i am doing changes in github not in local
